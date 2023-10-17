@@ -1,9 +1,13 @@
 # Digital-Afia-Learning-Center
 
 This is a solution aimed at addressing the question 'HOW MIGHT WE STRENGTHEN WORKFORCE CAPACITY, ESPECIALLY IN FRAGILE CONTEXTS AND VULNERABLE POPULATIONS FOR IMPROVING HEALTH, NUTRITION, MENTAL HEALTH AND PSYCHOSOCIAL SUPPORT?'.
+
 Upskilling frontline health workers for maternal, child and adolescent health.
+
 Offering specialized training and resources for youth engagement and advocacy for skilling.
+
 Augmenting workforce capacity in cultural competence, unconscious biases, and social determinants for health, nutrition and mental health.
+
 Building workforce capacity to deliver disability- and age-appropriate mental health and psychosocial support services.
 
 # The Need/Challenge Our Solution Is Addressing 
