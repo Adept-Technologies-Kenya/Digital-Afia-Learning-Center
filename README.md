@@ -15,10 +15,13 @@ The solution aims to empower these stakeholders by leveraging technology, AI, an
 **1. Capacity Building:** The solution primarily functions as a capacity-building platform for local Civil Society Organizations (CSOs) and Community Health Workers (CHWs) in vulnerable Kenyan communities.
 It provides specialized training and resources to enhance their skills and knowledge.   
 
+   
 **2. AI Facilitation:** The platform integrates an AI-powered chatbot that acts as a facilitator. This AI bot guides and supports users through their learning journey, providing crucial assistance, answering queries, and ensuring interactive & engaging learning experiences.   
 
+   
 **3. Content Delivery:** The platform offers a repository of educational resources, courses, and materials tailored to address key healthcare areas, including Mental Health, Sexual Reproductive Health, Sexual & Gender-Based Violence, and Maternal, Newborn & Child Health.    
 
+   
 **4. Monitoring and Evaluation:** The platform tracks user progress, performance, and engagement, enabling organizations to assess the impact of the training and make data-driven decisions.
 
 # What are the main components? 
