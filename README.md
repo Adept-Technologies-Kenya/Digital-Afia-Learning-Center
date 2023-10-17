@@ -34,4 +34,8 @@ It provides specialized training and resources to enhance their skills and knowl
 # Technologies That Make Up Our Solution 
 **1. Learning Management System:** The Learning Management System (LMS) serves as the platform through which users access and navigate the educational content, tracking their progress and ensuring a seamless learning experience.    
 **2. AI & Machine Learning:** Artificial Intelligence (AI) and Machine Learning (ML) are harnessed through an AI chatbot, acting as an intelligent facilitator. The AI chatbot's role is to personalize learning, provide real-time assistance, and continuously adapt to user needs, thereby optimizing the learning process and outcomes.    
-**3. Instructional Design:** Our solution leverages Instructional Design to ensure that the learning experiences provided are effective, efficient, and engaging for users, enhancing the acquisition of critical healthcare knowledge and skills. 
+**3. Instructional Design:** Our solution leverages Instructional Design to ensure that the learning experiences provided are effective, efficient, and engaging for users, enhancing the acquisition of critical healthcare knowledge and skills.    
+
+# How To Access The Platform
+Use this link to access the platform, create an account, confirm your email address and access all publicly available courses:   
+https://adept-technologies-learning-center.org/
