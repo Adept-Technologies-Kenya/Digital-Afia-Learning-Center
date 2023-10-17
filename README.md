@@ -25,7 +25,7 @@ Learning Management System (LMS): The core infrastructure for delivering educati
 Content Repository: A library of educational resources and modules covering healthcare topics mentioned above, and courses for youth engagement and advocacy training.    
 AI Chatbot Facilitator: The AI-powered chatbot is a key component that interacts with users.
 It provides personalized guidance, answers questions, and ensures a personalized and efficient learning experience.    
-Instructional Design: Instructional design principles are integrated into the content and structure of the platform to ensure that the learning experiences are effective, efficient, and engaging.    
+Instructional Design: Instructional design principles are integrated into the content and structure of the platform to ensure that the learning experiences are effective, efficient, and engaging.     
 Monitoring and Evaluation Tools: Data analytics and reporting functionalities to monitor user engagement, track progress, and assess the impact of the training.
 
 # Who are the main users?
