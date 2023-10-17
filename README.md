@@ -26,6 +26,7 @@ It provides specialized training and resources to enhance their skills and knowl
 
 # What are the main components? 
 **1. Learning Management System (LMS):** The core infrastructure for delivering educational content, tracking user progress, and managing course materials.    
+
     
 **2. Content Repository:** A library of educational resources and modules covering healthcare topics mentioned above, and courses for youth engagement and advocacy training.    
 
