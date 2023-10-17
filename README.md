@@ -7,7 +7,7 @@ This is a solution aimed at addressing the question 'HOW MIGHT WE STRENGTHEN WOR
 4. Building workforce capacity to deliver disability- and age-appropriate mental health and psychosocial support services.
 
 # The Need/Challenge Our Solution Is Addressing 
-Our solution addresses the lack of capacity and resources among local Civil Society Organizations and Community Health Workers in vulnerable communities in Kenya to effectively strengthen health systems and advocate for improved access to essential services. Particularly in the areas of Mental Health, Sexual Reproductive Health, Sexual & Gender Based Violence, and Maternal, Newborn & Child Health.    
+Our solution addresses the lack of capacity and resources among local Civil Society Organizations and Community Health Workers in vulnerable communities in Kenya to effectively strengthen health systems and advocate for improved access to essential services, particularly in the areas of Mental Health, Sexual Reproductive Health, Sexual & Gender Based Violence, and Maternal, Newborn & Child Health.    
 The solution aims to empower these stakeholders by leveraging technology, AI, and Machine Learning to bridge this capacity gap and facilitate positive change in these critical health areas.
 
 # The Solution
