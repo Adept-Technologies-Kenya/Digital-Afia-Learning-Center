@@ -26,20 +26,38 @@ It provides specialized training and resources to enhance their skills and knowl
 
 # What are the main components? 
 **1. Learning Management System (LMS):** The core infrastructure for delivering educational content, tracking user progress, and managing course materials.    
+
+    
 **2. Content Repository:** A library of educational resources and modules covering healthcare topics mentioned above, and courses for youth engagement and advocacy training.    
+
+    
 **3. AI Chatbot Facilitator:** The AI-powered chatbot is a key component that interacts with users. It provides personalized guidance, answers questions, and ensures a personalized and efficient learning experience.    
-**4. Instructional Design:** Instructional design principles are integrated into the content and structure of the platform to ensure that the learning experiences are effective, efficient, and engaging.     
+
+    
+**4. Instructional Design:** Instructional design principles are integrated into the content and structure of the platform to ensure that the learning experiences are effective, efficient, and engaging.    
+
+    
 **5. Monitoring and Evaluation Tools:** Data analytics and reporting functionalities to monitor user engagement, track progress, and assess the impact of the training.
 
 # Who are the main users?
 **1. Community Health Workers (CHWs):** Frontline health workers in vulnerable Kenyan communities who require upskilling in various healthcare areas to improve health outcomes.    
+
+    
 **2. Local Civil Society Organizations:** Organizations operating in vulnerable communities that seek to enhance their capacity to advocate for better access to essential services, with a particular focus on healthcare.    
-**3. Health Advocates:** Individuals and organizations focusing on health advocacy, including maternal and child health, sexual reproductive health, Sexual & Gender Based Violence, and mental health.    
+
+    
+**3. Health Advocates:** Individuals and organizations focusing on health advocacy, including maternal and child health, sexual reproductive health, Sexual & Gender Based Violence, and mental health.      
+
+    
 **4. Youth Engagement Groups:** Young leaders and organizations actively involved in health-related initiatives, focusing on youth empowerment and advocacy for various health issues.
 
 # Technologies That Make Up Our Solution 
 **1. Learning Management System:** The Learning Management System (LMS) serves as the platform through which users access and navigate the educational content, tracking their progress and ensuring a seamless learning experience.    
-**2. AI & Machine Learning:** Artificial Intelligence (AI) and Machine Learning (ML) are harnessed through an AI chatbot, acting as an intelligent facilitator. The AI chatbot's role is to personalize learning, provide real-time assistance, and continuously adapt to user needs, thereby optimizing the learning process and outcomes.    
+
+    
+**2. AI & Machine Learning:** Artificial Intelligence (AI) and Machine Learning (ML) are harnessed through an AI chatbot, acting as an intelligent facilitator. The AI chatbot's role is to personalize learning, provide real-time assistance, and continuously adapt to user needs, thereby optimizing the learning process and outcomes.      
+
+    
 **3. Instructional Design:** Our solution leverages Instructional Design to ensure that the learning experiences provided are effective, efficient, and engaging for users, enhancing the acquisition of critical healthcare knowledge and skills.    
 
 # How To Access The Platform
